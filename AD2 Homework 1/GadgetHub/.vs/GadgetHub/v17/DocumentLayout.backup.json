@@ -3,23 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\widmatg\\source\\application development 2\\application-development-2\\ad2 homework 1\\gadgethub\\gadgethub.webui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\widmatg\\source\\application development 2\\application-development-2\\ad2 homework 1\\gadgethub\\gadgethub.webui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\widmatg\\source\\application development 2\\application-development-2\\ad2 homework 1\\gadgethub\\gadgethub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\widmatg\\source\\application development 2\\application-development-2\\ad2 homework 1\\gadgethub\\gadgethub.webui\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80A67C5C-46AF-41F9-AAA4-AF5ED7F1478F}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\widmatg\\source\\application development 2\\application-development-2\\ad2 homework 1\\gadgethub\\gadgethub.domain\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A67C5C-46AF-41F9-AAA4-AF5ED7F1478F}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A67C5C-46AF-41F9-AAA4-AF5ED7F1478F}|GadgetHub.Domain\\GadgetHub.Domain.csproj|C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\gadgethub.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A67C5C-46AF-41F9-AAA4-AF5ED7F1478F}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\widmatg\\source\\application development 2\\application-development-2\\ad2 homework 1\\gadgethub\\gadgethub.webui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\gadgethub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\widmatg\\source\\application development 2\\application-development-2\\ad2 homework 1\\gadgethub\\gadgethub.webui\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\gadgethub.webui\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\widmatg\\source\\application development 2\\application-development-2\\ad2 homework 1\\gadgethub\\gadgethub.webui\\infrastructure\\binders\\cartmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\gadgethub.webui\\infrastructure\\binders\\cartmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\infrastructure\\binders\\cartmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\widmatg\\source\\application development 2\\application-development-2\\ad2 homework 1\\gadgethub\\gadgethub.webui\\models\\cartindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\gadgethub.webui\\models\\cartindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\models\\cartindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,15 +47,11 @@
       "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A67C5C-46AF-41F9-AAA4-AF5ED7F1478F}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\widmatg\\source\\application development 2\\application-development-2\\ad2 homework 1\\gadgethub\\gadgethub.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A67C5C-46AF-41F9-AAA4-AF5ED7F1478F}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\gadgethub.webui\\views\\shared\\gadgetsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\shared\\gadgetsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\widmatg\\source\\application development 2\\application-development-2\\ad2 homework 1\\gadgethub\\gadgethub.webui\\controllers\\gadgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\gadgethub.webui\\controllers\\gadgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\gadgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\gadgethub.webui\\models\\gadgetslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\models\\gadgetslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\gadgethub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A89B05F6-B754-4A67-B646-ED3A620ECAFD}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\gadgethub.webui\\views\\gadget\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -102,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,54 +122,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Global.asax.cs",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Global.asax.cs",
-              "RelativeToolTip": "GadgetHub.WebUI\\Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T19:54:13.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartModelBinder.cs",
-              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
-              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
-              "RelativeToolTip": "GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T19:49:09.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAABSAAAAAAAAAA==",
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T16:38:23.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CartIndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
-              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
-              "RelativeToolTip": "GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:19:24.452Z",
+              "WhenOpened": "2025-03-21T17:53:20.648Z",
               "EditorCaption": ""
             },
             {
@@ -168,14 +141,77 @@
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\CartController.cs",
               "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Controllers\\CartController.cs",
               "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:08:43.432Z",
+              "WhenOpened": "2025-03-21T17:52:38.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShippingDetails.cs",
+              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.Domain\\Entities\\ShippingDetails.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Entities\\ShippingDetails.cs",
+              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.Domain\\Entities\\ShippingDetails.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Entities\\ShippingDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:47:07.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T16:56:05.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartModelBinder.cs",
+              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
+              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:49:09.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T16:38:23.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:19:24.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.Domain\\Entities\\Cart.cs",
               "RelativeDocumentMoniker": "GadgetHub.Domain\\Entities\\Cart.cs",
@@ -188,7 +224,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T15:03:04.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Global.asax.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Global.asax.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:54:13.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "GadgetSummary.cshtml",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\GadgetSummary.cshtml",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Shared\\GadgetSummary.cshtml",
@@ -196,12 +257,11 @@
               "RelativeToolTip": "GadgetHub.WebUI\\Views\\Shared\\GadgetSummary.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T17:35:04.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T17:35:04.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
@@ -213,19 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T15:03:04.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Gadget\\List.cshtml",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Gadget\\List.cshtml",
@@ -237,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "NinjectDependencyResolver.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
@@ -245,12 +293,11 @@
               "RelativeToolTip": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAA1wCcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:38:10.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T20:38:10.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "GadgetsListViewModel.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Models\\GadgetsListViewModel.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Models\\GadgetsListViewModel.cs",
@@ -262,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "GadgetController.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Controllers\\GadgetController.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\GadgetController.cs",
@@ -270,12 +317,11 @@
               "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\GadgetController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T14:54:59.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T14:54:59.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "NavController.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Controllers\\NavController.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\NavController.cs",
@@ -287,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Menu.cshtml",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\Nav\\Menu.cshtml",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Nav\\Menu.cshtml",
@@ -299,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\_ViewStart.cshtml",
@@ -311,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "PagingInfo.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Models\\PagingInfo.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Models\\PagingInfo.cs",
@@ -323,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "PagingHelper.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\HtmlHelpers\\PagingHelper.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\HtmlHelpers\\PagingHelper.cs",
@@ -335,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "web.config",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\Views\\web.config",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\web.config",
@@ -347,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "IGadgetRepository.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.Domain\\Abstract\\IGadgetRepository.cs",
               "RelativeDocumentMoniker": "GadgetHub.Domain\\Abstract\\IGadgetRepository.cs",
@@ -359,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Gadget.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.Domain\\Entities\\Gadget.cs",
               "RelativeDocumentMoniker": "GadgetHub.Domain\\Entities\\Gadget.cs",
@@ -371,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "NinjectWebCommon.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.WebUI\\App_Start\\NinjectWebCommon.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\App_Start\\NinjectWebCommon.cs",
@@ -383,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\widmatg\\source\\Application Development 2\\Application-Development-2\\AD2 Homework 1\\GadgetHub\\GadgetHub.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "GadgetHub.Domain\\Class1.cs",
