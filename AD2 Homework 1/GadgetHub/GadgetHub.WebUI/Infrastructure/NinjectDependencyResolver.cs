@@ -7,6 +7,7 @@ using Moq;
 using GadgetHub.Domain.Abstract;
 using GadgetHub.Domain.Entities;
 using GadgetHub.Domain.Concrete;
+using System.Configuration;
 
 namespace GadgetHub.WebUI.Infrastructure
 {
@@ -40,6 +41,14 @@ namespace GadgetHub.WebUI.Infrastructure
 			});
 			kernel.Bind<IGadgetRepository>().ToConstant(mock.Object);*/
 			kernel.Bind<IGadgetRepository>().To<EFGadgetRepository>();
+			EmailSettings emailSettings = new EmailSettings
+			{
+				WriteAsFile = bool.Parse(ConfigurationManager.AppSettings["Email.WriteAsFile"] ?? "false")
+			};
+
+			kernel.Bind<IOrderProcessor>()
+				.To<EmailOrderProcessor>()
+				.WithConstructorArgument("settings", emailSettings);
 		}
 	}
 }
