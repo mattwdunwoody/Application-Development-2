@@ -1,0 +1,57 @@
+﻿@model GadgetHub.Domain.Entities.Gadget
+
+@{
+    var operationText = "";
+    if (ViewBag.operation == "create")
+    {
+        operationText = "Add new Gadget";
+    }
+    else
+    {
+        operationText = "Edit " + Model.GadgetName;
+    }
+
+    ViewBag.Title = "Admin:" + operationText;
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3>@operationText</h3>
+    </div>
+
+    @using (Html.BeginForm("Edit", "Admin"))
+    { 
+        <div class="card-body">
+            @Html.HiddenFor(m => m.GadgetID)
+
+            @foreach (var property in ViewData.ModelMetadata.Properties)
+            {
+                if (property.PropertyName != "GadgetID")
+                {
+                    <div class="mb-3">
+                        <label class="form-label">
+                            @(property.DisplayName ?? property.PropertyName)
+                        </label>
+
+                        @if (property.PropertyName == "GadgetDesc")
+                        {
+                            @Html.TextArea(property.PropertyName, null, new { @class = "form-control", rows = 5 })
+                        }
+                        else
+                        {
+                            @Html.TextBox(property.PropertyName, null, new { @class = "form-control" })
+                        }
+
+                        @Html.ValidationMessage(property.PropertyName)
+                    </div>
+                }
+            }
+        </div>
+
+        <div class="card-footer">
+            <input type="submit" value="Save" class="btn btn-primary" />
+            @Html.ActionLink("Cancel and return to list", "Index", null, new { @class = "btn btn-secondary" })
+        </div>
+    }
+</div>
