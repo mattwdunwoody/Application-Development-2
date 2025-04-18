@@ -20,33 +20,63 @@
         <h3>@operationText</h3>
     </div>
 
-    @using (Html.BeginForm("Edit", "Admin"))
-    { 
+    @using (Html.BeginForm("Edit", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
         <div class="card-body">
             @Html.HiddenFor(m => m.GadgetID)
 
             @foreach (var property in ViewData.ModelMetadata.Properties)
             {
-                if (property.PropertyName != "GadgetID")
+                switch (property.PropertyName)
                 {
-                    <div class="mb-3">
-                        <label class="form-label">
-                            @(property.DisplayName ?? property.PropertyName)
-                        </label>
+                    case "GadgetID":
+                    case "ImageData":
+                    case "ImageMimeType":
+                        break;
+                    default:
+                        <div class="mb-3">
+                            <label class="form-label">
+                                @(property.DisplayName ?? property.PropertyName)
+                            </label>
 
-                        @if (property.PropertyName == "GadgetDesc")
-                        {
-                            @Html.TextArea(property.PropertyName, null, new { @class = "form-control", rows = 5 })
-                        }
-                        else
-                        {
-                            @Html.TextBox(property.PropertyName, null, new { @class = "form-control" })
-                        }
-
-                        @Html.ValidationMessage(property.PropertyName)
-                    </div>
+                            @if (property.PropertyName == "Description")
+                            {
+                                @Html.TextArea(property.PropertyName, null, new { @class = "form-control", rows = 5 })
+                            }
+                            else
+                            {
+                                @Html.TextBox(property.PropertyName, null, new { @class = "form-control" })
+                            }
+                            @Html.ValidationMessage(property.PropertyName)
+                        </div>
+                        break;
                 }
             }
+
+            <div class="mb-3">
+                <label class="form-label">Image</label>
+                <div style="position:relative;">
+                    <a class="btn btn-secondary" href="javascript:;">
+                        Choose File
+                        <input type="file" name="Image" size="40"
+                               style="position:absolute;z-index:2;top:0;
+                               left:0;opacity:0;
+                               background-color:transparent;color:transparent;"
+                               onchange='$("#upload-file-info").html($(this).val());' />
+                    </a>
+                    <span class="form-label label-info" id="upload-file-info"></span>
+                </div>
+
+                @if (Model.ImageData == null)
+                {
+                    <div class="form-text">No Image</div>
+                }
+                else
+                {
+                    <img class="img-thumbnail" width="150" height="150"
+                         src='@Url.Action("GetImage", "Gadget", new { @Model.GadgetID })' />
+                }
+            </div>
         </div>
 
         <div class="card-footer">

@@ -33,6 +33,9 @@ namespace GadgetHub.Domain.Concrete
 					dbEntry.GadgetDesc = gadget.GadgetDesc;
 					dbEntry.GadgetPrice = gadget.GadgetPrice;
 					dbEntry.GadgetCategory = gadget.GadgetCategory;
+
+					dbEntry.ImageData = gadget.ImageData;
+					dbEntry.ImageMimeType = gadget.ImageMimeType;
 				}
 			}
 			context.SaveChanges();

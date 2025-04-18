@@ -34,5 +34,9 @@ namespace GadgetHub.Domain.Entities
 		[Display(Name = "Category")]
 		[Required(ErrorMessage = "Please enter a category")]
 		public string GadgetCategory { get; set; }
+
+		public byte[] ImageData { get; set; }
+
+		public string ImageMimeType { get; set; }
 	}
 }
